@@ -1,4 +1,4 @@
-![de 12](https://github.com/ragnarroshan/study-of-basic-gates/assets/147474287/5eba0c6a-25f9-4763-a87d-3ee80149b5de)### study-of-basic-gates
+### study-of-basic-gates
 
 **AIM:** 
 
