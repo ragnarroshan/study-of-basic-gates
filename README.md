@@ -89,5 +89,6 @@ endmodule
 **RTL**
 
 **Result:**
+Thus the logic gate is verified
 
 
